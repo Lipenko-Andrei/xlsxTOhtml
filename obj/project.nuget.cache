@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1TUeCDdp8uSX/l3MwDbaeFVcwvg4O0v7jWxbaLV7EDR5S9+ZjDGECZB6eUHQibVZ1/n0Mn49dZ6fH5WqEFbTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Komp\\source\\repos\\XLSXtoHTML\\XLSXtoHTML\\XLSXtoHTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komp\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
